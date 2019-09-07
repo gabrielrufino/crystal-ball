@@ -1,0 +1,19 @@
+{
+  "name": "crystal-ball",
+  "version": "1.0.0",
+  "description": "Repositório de exemplos de Machine Learnings de predição",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielrufino/crystal-ball.git"
+  },
+  "author": "Gabriel Rufino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielrufino/crystal-ball/issues"
+  },
+  "homepage": "https://github.com/gabrielrufino/crystal-ball#readme"
+}
