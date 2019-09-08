@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrielrufino/crystal-ball/issues"
   },
-  "homepage": "https://github.com/gabrielrufino/crystal-ball#readme"
+  "homepage": "https://github.com/gabrielrufino/crystal-ball#readme",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^1.2.9"
+  }
 }
